@@ -3,6 +3,11 @@ A program that applies filters to BMPs
 
 ## Usage
 
+### Compilation
+$ make filter
+
+### Filters
+
 #### Greyscale
 $ ./filter -g infile.bmp outfile.bmp
 
